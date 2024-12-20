@@ -45,7 +45,7 @@ def bfs(maze, start, end):
     return None  # Если путь не найден
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
 
     # Лабиринт (где 0 — стена, 1 — свободный путь)
     maze = [
